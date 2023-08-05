@@ -30,7 +30,7 @@ This is a affiliate fashion website made in Next.js & TailwindCSS without a back
 
 ```bash
 
-git clone https://github.com/0xBitBuster/fashion-website
+git clone https://github.com/0xBitBuster/fashion-website.git
 
 ```
 
