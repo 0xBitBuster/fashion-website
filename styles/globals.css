@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: theme('fontFamily.cairo'), sans-serif;
+    color: theme('colors.dark-green');
+    background-color: theme('colors.creme');
+}
+
+img {
+    user-select: none;
+    pointer-events: none;
+}
