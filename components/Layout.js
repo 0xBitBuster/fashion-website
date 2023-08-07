@@ -17,7 +17,7 @@ const cairoFont = Cairo({
 
 function Layout({ children, title, description }) {
     return (
-        <main className={`${viaodaFont.variable} ${cairoFont}`}>
+        <main className={`${viaodaFont.variable} ${cairoFont.variable}`}>
             <Head>
                 <title>{`${title} | MatchingFits`}</title>
                 <meta name="description" content={description} />
