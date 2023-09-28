@@ -5,7 +5,7 @@
 
 This is a affiliate fashion website made in Next.js & TailwindCSS without a backend. The whole design is made to be simple and elegant. You may use this as project as a starting point for your website, but make sure you give this repo a star :)
 
-<a href="https://matchingfits.vercel.app">View Portfolio</a>
+<a href="https://matchingfits.vercel.app">View Website</a>
 
 
 ## Pages
